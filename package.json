@@ -1,0 +1,43 @@
+{
+  "name": "cyto-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YinDongFang/cyto-scraper.git"
+  },
+  "author": "YinDongFang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YinDongFang/cyto-scraper/issues"
+  },
+  "homepage": "https://github.com/YinDongFang/cyto-scraper#readme",
+  "dependencies": {
+    "is-array": "^1.0.1",
+    "is-bool": "^0.0.3",
+    "is-falsy": "^0.0.1",
+    "is-null": "^1.0.1",
+    "is-number": "^7.0.0",
+    "is-odd": "^3.0.1",
+    "jquery": "^3.7.1",
+    "koa": "^2.15.2",
+    "lazy-store-loader": "^2.0.3",
+    "nodemon": "^3.1.0",
+    "querystring": "^0.2.1",
+    "react": "^18.2.0",
+    "vue": "^3.4.21",
+    "cyto-parser": "^1.0.0",
+    "cyto-utils": "^1.0.0",
+    "cyto-network": "^1.0.0",
+    "cyto-visualizer": "^1.0.0",
+    "cyto-tools": "^1.0.0",
+    "cyto-plugin": "^1.0.0",
+    "cyto-router": "^1.0.0",
+    "cyto-dashboard": "^1.0.0",
+    "cyto-editor": "^1.0.0"
+  }
+}
